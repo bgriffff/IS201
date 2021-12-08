@@ -1,0 +1,199 @@
+.resume{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(80, 77, 77);
+}
+
+.contact{
+    text-align: left;
+}
+
+.size{
+  width: 650px;
+}
+.head{
+    text-align: center;
+}
+.brandon{
+    height: 350px;
+    align-items: center;
+    border: 2px solid white;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.link{
+    font-size: 20px;
+    font-weight:bold;
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: rgb(13, 93, 139);
+}
+
+h2:hover{
+    color: rgb(2, 126, 2);
+}
+
+h3{
+    color:rgb(14, 14, 122);
+}
+.point{
+    font-weight: lighter; 
+    text-decoration: none;
+}
+
+.home{
+    color: rgb(9, 95, 9);
+}
+
+/* Tableau Page */
+.common{
+    /* background-color: #CCCCCC; */
+    /* border: solid 2px white; */
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: rgb(65, 168, 252);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #fdfdfd}
+  
+  .button:active {
+    background-color: #077dac;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 350px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 45px;
+    padding-right: 5px;
+
+   
+}
+
+.mainbody{
+    top:114px;
+    bottom: 64px;
+    left:364px;
+    right: 364px;
+    padding-right:5px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width: 350px;
+    bottom: 64px; 
+    padding-left: 5px;
+
+
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 15px;
+    color: #999999;
+    text-align:center;
+    position:fixed;
+}
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+
+.main{
+    overflow:auto;
+    padding-bottom:100px;
+}
+
+.container{
+    min-height: 100%;
+}
+
+.copyright{
+    font-size:15px;
+    font-style: italic;
+    color:grey;
+    padding-bottom: 2px;
+
+}
+
+.subheader{
+    float: right;
+}
+.tab {
+    width:500px;
+ }
+.background{
+    background-size: 2000px 1600px;
+}
+
+h5{
+    font-weight:bold;
+    text-align: center;
+    font-family:  Copperplate, "Copperplate Gothic Light", fantasy;
+    font-size: 15px;
+}
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight:bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tabs{
+    color: white;
+    font-weight:bold;
+    font-size:20px;
+    word-spacing:100px;
+}
+
+.bold{
+    font-weight:bold;
+}
+.italics{
+    font-style:italic;
+}
+
+.des{
+    font-size: 20px;
+    font-family:  Copperplate, "Copperplate Gothic Light", fantasy;
+}
+.top{
+    font-size: 40px;
+    font-family:  Copperplate, "Copperplate Gothic Light", fantasy;
+    text-align: center;
+}
